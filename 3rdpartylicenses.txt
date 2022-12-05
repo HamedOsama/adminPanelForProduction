@@ -368,6 +368,9 @@ THE SOFTWARE.
 ng-apexcharts
 MIT
 
+ngx-dropzone
+MIT
+
 ngx-toastr
 MIT
 The MIT License (MIT)
